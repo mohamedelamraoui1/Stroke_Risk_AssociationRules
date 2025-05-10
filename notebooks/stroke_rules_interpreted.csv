@@ -1,0 +1,4 @@
+antecedents_str,consequents,support,confidence,lift,conviction,loevinger,recommandation
+age_bin=senior,"frozenset({'stroke=1', 'ever_married=Yes'})",0.02015655577299413,0.08367181153533713,1.9434679861162398,1.044327976016988,0.04244641246330731,Suivi cardiovasculaire renforcé pour les patients avec : age_bin=senior
+"age_bin=senior, ever_married=Yes",frozenset({'stroke=1'}),0.02015655577299413,0.08948740225890531,1.8364683756747233,1.0447653530721082,0.042847279478092186,"Suivi cardiovasculaire renforcé pour les patients avec : age_bin=senior, ever_married=Yes"
+"bmi_bin=overweight, ever_married=Yes",frozenset({'stroke=1'}),0.02015655577299413,0.08533554266777134,1.751263546314504,1.0400229374060523,0.038482744915102146,"Suivi cardiovasculaire renforcé pour les patients avec : bmi_bin=overweight, ever_married=Yes"
